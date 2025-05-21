@@ -1,0 +1,12 @@
+# Desafio de Automação - Advantage Online Shopping
+
+Este repositório contém a automação dos testes Web para o site [Advantage Online Shopping]
+
+---
+
+# Tecnologias Utilizadas
+- [Cypress](https://www.cypress.io/)  
+- [Cucumber](https://cucumber.io/)  
+- [cypress-cucumber-preprocessor](https://github.com/badeball/cypress-cucumber-preprocessor)
+- [Node](v16.14.0)
+---

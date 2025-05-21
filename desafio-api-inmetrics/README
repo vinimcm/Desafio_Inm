@@ -1,0 +1,12 @@
+# Desafio de Automação - Advantage Online Shopping
+
+Este repositório contém a automação dos testes Web e API para o site [Advantage Online Shopping]
+
+---
+
+# Tecnologias Utilizadas
+- [Cypress](https://www.cypress.io/)  
+- [Axios](https://axios-http.com/) (utilizado para upload de imagem via `task`)  
+- [form-data](https://www.npmjs.com/package/form-data)  
+- [Node](v16.14.0)
+---
